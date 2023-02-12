@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.App{
+color: rgb(214, 33, 33);
+font-size: 40px;
+
+
+}
+button{
+ padding: 20px;
+ margin: 10px;
+}
